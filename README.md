@@ -1,7 +1,7 @@
 # KensIdeas
 If something is too big (or i am too lazy), The Good ideas go here free for use!
 
-(Used with AI for Project 1)
+(Used with AI for Most)
 
 Project 1:  ---
 # Open-Source Discovery Hub
